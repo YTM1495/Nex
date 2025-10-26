@@ -1,0 +1,6 @@
+Adding and Viewing New Contact
+1.Input the contact number
+2.Add name of the person
+3.save the contact
+4.Go to contacts list
+5.Search by name or contact number
